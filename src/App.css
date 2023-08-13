@@ -1,14 +1,17 @@
-.App {
-  text-align: center;
-  color: rgb(37, 37, 43);
-  /* background: none; */
-  
-  /* background-color: red; */
-  /* margin: auto; */
-  /* color: blue; */
+.App{
+  width: 500px;
+  margin: auto;
+  background-color: green;
 }
-.App-header{
+h1{
   text-align: center;
 }
-
+button{
+  width: 100px;
+  border: 1px solid green;
+  margin: auto;
+  align-items: center;
+  border-radius: 25px;
+  padding: 10px;
+}
 
